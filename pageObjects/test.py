@@ -59,17 +59,3 @@ class HomePage(Page):
 
 class SignUp(Page):
 	pass
-
-	
-
-		
-
-
-
-
-
-
-
-
-
-
